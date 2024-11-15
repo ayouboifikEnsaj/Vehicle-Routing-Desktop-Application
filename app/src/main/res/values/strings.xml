@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocateMe</string>
+    <string name="grant_permission_first">Grant Permission First</string>
+</resources>
